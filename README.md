@@ -1,6 +1,8 @@
 # 3dtetris
 A 3d tetris game in python with the 3d rendering done manually
 
+To start the game simply run the Main.py file and follow the instructions given (with pygame installed)
+
 Here are some screenshots from the game
 
 ![tetris3](https://user-images.githubusercontent.com/102361078/214153735-9b5bb675-1849-45ea-878c-0c3faba7ad3a.png)
