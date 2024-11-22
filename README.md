@@ -3,6 +3,7 @@
 
 This game was invented for the purpose of a team project I led with two other schoolmates. The game is basically a Tetris but you can use the third dimension to rotate pieces and therefore create new combination and strategies.
 The player can move around in the world and see the blocks in 3D. All calculations to render frames are done manually (and therefore the game is very laggy and slow to run)
+Python is used but some of the code is complied thanks to numba
 <br>
 The project was not initially worked on with git, but the code is supposed to be readable and is commented (but in french)
 
