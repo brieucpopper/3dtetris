@@ -1,5 +1,5 @@
 # 3D Tetris
-*Started Mar 2022 — team project @ Telecom SudParis*
+*2020 — team project @ Lycée Pasteur*
 
 A 3D Tetris game in Python, with the 3D rendering done manually (no 3D engine).
 
